@@ -1,0 +1,32 @@
+.decoration {
+  font-family: "Arial", "Meiryo", sans-serlf;
+  font-size: 20px;
+}
+
+.google-fonts {
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100..700&display=swap" rel="stylesheet">
+}
+
+.text-skyblue {
+  color: skyblue;
+}
+
+.text-pink {
+  color: rgb(255,192,203);
+}
+
+body {
+  text-align: center;
+}
+
+.google-fonts {
+  letter-spacing: 1.2em;
+  border-bottom: solid 3px black;
+  text-shadow: 1px 1px 2px gray;
+}
+
+.bold {
+  font-weight: bold;
+}
